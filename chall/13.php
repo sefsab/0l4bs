@@ -57,7 +57,7 @@ if(!isset($_GET['status'])) {
     $status = str_replace('<','&lt;', $status);
     $status = str_replace('>','&gt;', $status);
 
-	echo $status;
+	echo ;
 }
         ?> 
                    <br><br>
